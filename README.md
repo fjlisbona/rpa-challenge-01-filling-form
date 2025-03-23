@@ -33,3 +33,4 @@ Editar
 ├── Screenshots/             # Capturas del resultado
 └── README.md
 
+![Tiempo de realizacion](https://github.com/user-attachments/assets/edc058fa-6669-49e4-84de-b26cb6375dd6)
