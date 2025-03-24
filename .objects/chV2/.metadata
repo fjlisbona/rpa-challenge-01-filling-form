@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Navegador",
+  "Type": "App",
+  "Id": "chV2adhq5k6kYC7SsYkkGA",
+  "Reference": "ti9YCHez_UOR0egPPITcgQ/chV2adhq5k6kYC7SsYkkGA",
+  "Created": "2025-03-21T21:36:19.1022758Z",
+  "Updated": "2025-03-21T21:36:19.1022758Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

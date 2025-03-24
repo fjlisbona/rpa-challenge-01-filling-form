@@ -1,0 +1,37 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Challenge/RPA-Challenge.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "contenidoPagina&Sequence_24",
+        "currentText&Sequence_1",
+        "valueField&Sequence_1",
+        "all_values_list&Sequence_1",
+        "spreadsheetData&Sequence_1",
+        "CurrentIndex&Sequence_1",
+        "header_Vble&Sequence_1",
+        "header_list&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

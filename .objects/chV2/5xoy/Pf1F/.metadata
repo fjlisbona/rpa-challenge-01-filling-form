@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Navegador",
+  "Type": "Screen",
+  "Id": "Pf1FeIELwE6mXVzRwA_sQQ",
+  "Reference": "ti9YCHez_UOR0egPPITcgQ/Pf1FeIELwE6mXVzRwA_sQQ",
+  "ParentRef": "ti9YCHez_UOR0egPPITcgQ/5xoydSNDIkWljnQmh8IvrQ",
+  "Created": "2025-03-21T21:36:19.1554411Z",
+  "Updated": "2025-03-21T21:36:19.1554411Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
